@@ -12,6 +12,7 @@ p {
     font-size: 16px;
 }
 
+
 /* start of header section*/
 header {
     padding: 20px;
@@ -92,8 +93,8 @@ a {
 }
 /* benefits section end */
 
-/* content section start*/
 
+/* content section start*/
 .content {
     width: 75%;
     display: inline-block;
@@ -114,6 +115,7 @@ a {
     font-size: 36px;
 }
 /* content section end */
+
 
 
 .float-left {
