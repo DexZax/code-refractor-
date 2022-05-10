@@ -30,4 +30,4 @@ N/A
 
 N/A
 
-@2019 Horiseon Social Solution Services, Inc.
+© 2019 Horiseon Social Solution Services, Inc.
